@@ -1,0 +1,14 @@
+{
+    "fontname": "rIMing",
+    "fullname": "Recombinant IMing",
+    "familyname":"rIMing",
+    "inputs":{
+        "ipa": "source/ipamjm.ttf", 
+        "iming": "source/I.Ming-7.01.ttf", 
+        "noto": "source/DreamHanSerif-W3.ttc(Dream Han Serif K W3)",
+        "sc": "source/BabelStoneHan.ttf",
+        "serif": "source/FreeSerif.ttf"
+    },
+    "base": "ipa",
+    "output": "rIMing.ttf"
+}
