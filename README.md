@@ -1,7 +1,7 @@
 # 里明字體 rIMing
 里瓣重組明體 Recombinant IPA Ming
 
-This repo hosts scripts and config files used to generate rIMing font, which is modifies [IPA mj Mincho 明朝](https://moji.or.jp/mojikiban/font/) ([IPA Font License](directory.fsf.org/wiki/License:IPA_Font_License)). Glyphs from the following fonts are also used:
+This repo hosts scripts and config files used to generate rIMing font, which modifies [IPA mj Mincho 明朝](https://moji.or.jp/mojikiban/font/) ([IPA Font License](directory.fsf.org/wiki/License:IPA_Font_License)). Glyphs from the following fonts are also used:
 
 - [I.Ming(Var) I.明體(異體)](https://github.com/ichitenfont/I.Ming) ([IPA Font License](directory.fsf.org/wiki/License:IPA_Font_License))
 - [梦源宋体](https://github.com/Pal3love/dream-han-cjk) ([SIL Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)): a weight-adjusted variant of [Noto CJK](https://github.com/googlefonts/noto-cjk). We use the W-3 which is close to weights of IPA/I.Ming fonts.
