@@ -15,6 +15,11 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "悔",
+        "glyphSrc": "mj030257",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "僧",
         "glyphSrc": "mj030245",
         "fontSrc": "ipa"
