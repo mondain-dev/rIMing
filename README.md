@@ -16,10 +16,10 @@ This font implements the glyph forms known as 舊字形, and follows the exempla
   - 續編 (1931)
   - 正續編合訂本 (1939)
  
-The choices of glyph forms are configured by the `modifications.json`. 
+The modifications to the base IPA mj Mincho and choices of glyph forms are configured in the `modifications.json`. 
 
 ## Usage
-The script `recombine.py` runs under the [FontForge scripting](https://fontforge.org/docs/scripting/scripting.html) environment. To run the script, the source fonts, namely the paths to IPA mj Mincho, I.Ming, etc. should be specified in the `config.json`, by default expected in the `source/` folder. The following commands will create symbolic links of source fonts in the `source/` folder:
+To run the script, the paths to the source fonts, namely IPA mj Mincho, I.Ming, etc. should be specified in the `config.json`, by default expected in the `source/` folder. The following commands will create symbolic links of source fonts in the `source/` folder:
 
 ```
 ln -s /path/to/ipamjm.ttf source/ipamjm.ttf
