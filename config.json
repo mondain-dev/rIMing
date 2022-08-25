@@ -1,13 +1,31 @@
 {
-    "fontname": "rIMing",
-    "fullname": "Recombinant IMing",
-    "familyname":"rIMing",
+    "name": {
+        "familyName":"rIMing",
+        "subfamilyName": "Regular",
+        "identifier": "rIMing Regular v0.0.1",
+        "fullName": "rIMing Regular",
+        "version" : "version 0.0.1", 
+        "psName" : "rIMing",
+        "license": "IPA Font License (IPA)",
+        "licenseUrl": "https://opensource.org/licenses/IPA/"
+    },
     "inputs":{
-        "ipa": "source/ipamjm.ttf", 
-        "iming": "source/I.Ming-7.01.ttf", 
-        "noto": "source/DreamHanSerif-W3.ttc(Dream Han Serif K W3)",
-        "sc": "source/BabelStoneHan.ttf",
-        "serif": "source/FreeSerif.ttf"
+        "ipa": {
+            "filename": "source/ipamjm.ttf"
+        }, 
+        "iming": {
+            "filename": "source/I.Ming-7.01.ttf"
+        }, 
+        "noto": {
+            "filename": "source/DreamHanSerif-W3.ttc",
+            "fontname": "Dream Han Serif K W3"
+        },
+        "sc": {
+            "filename":"source/BabelStoneHan.ttf"
+        },
+        "serif": {
+            "filename": "source/FreeSerif.ttf"
+        }
     },
     "base": "ipa",
     "output": "rIMing.ttf"
