@@ -275,6 +275,21 @@
         "fontSrc": "iming"
     },
     {
+        "character": "沿",
+        "glyphSrc": "mj015187",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "船",
+        "glyphSrc": "mj021401",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "鉛",
+        "glyphSrc": "mj026758",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "眾",
         "glyphSrc": "衆",
         "fontSrc": "ipa"
