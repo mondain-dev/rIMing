@@ -1,0 +1,645 @@
+[
+    {
+        "character": "海",
+        "glyphSrc": "mj030266",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "侮",
+        "glyphSrc": "mj030244",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "梅",
+        "glyphSrc": "mj030265",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "僧",
+        "glyphSrc": "mj030245",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "層",
+        "glyphSrc": "mj030255",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "憎",
+        "glyphSrc": "mj030259",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "贈",
+        "glyphSrc": "mj030301",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "唐",
+        "glyphSrc": "mj008325",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "糖",
+        "glyphSrc": "mj019903",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "塘",
+        "glyphSrc": "mj009210",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "空",
+        "glyphSrc": "mj019211",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "像",
+        "glyphSrc": "mj007063",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "包",
+        "glyphSrc": "mj007757",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "蘭",
+        "glyphSrc": "mj023222",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "誤",
+        "glyphSrc": "mj024522",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "虞",
+        "glyphSrc": "mj023296",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "要",
+        "glyphSrc": "mj024200",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "覆",
+        "glyphSrc": "mj024208",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "那",
+        "glyphSrc": "mj026238",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "俞",
+        "uvsOrig": "0xe0100",
+        "glyphSrc": "兪",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "喻",
+        "uvsOrig": "0xe0100",
+        "glyphSrc": "喩",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "愈",
+        "glyphSrc": "mj011721",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "匬",
+        "glyphSrc": "mj007803",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "愉",
+        "glyphSrc": "mj011725",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "諭",
+        "glyphSrc": "mj024619",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "輸",
+        "glyphSrc": "mj025668",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "媮",
+        "glyphSrc": "婾",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "偷",
+        "glyphSrc": "偸",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "榆",
+        "uvsOrig": "0xe0101",
+        "glyphSrc": "楡",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "青",
+        "uvsOrig": "0xe0100",
+        "glyphSrc": "靑",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "請",
+        "glyphSrc": "mj024571",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "情",
+        "glyphSrc": "mj011647",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "清",
+        "uvsOrig": "0xe0101",
+        "glyphSrc": "淸",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "菜",
+        "glyphSrc": "mj022111",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "所",
+        "glyphSrc": "mj012119",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "爵",
+        "glyphSrc": "mj016748",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "真",
+        "glyphSrc": "眞",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "值",
+        "glyphSrc": "値",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "巔",
+        "glyphSrc": "巓",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "類",
+        "glyphSrc": "mj030188",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "殺",
+        "glyphSrc": "mj030187",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "起",
+        "glyphSrc": "mj025179",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "平",
+        "glyphSrc": "mj010942",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "倂",
+        "glyphSrc": "mj006815",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "併",
+        "glyphSrc": "mj006815",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "并",
+        "glyphSrc": "幷",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "弱",
+        "glyphSrc": "mj011190",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "監",
+        "glyphSrc": "mj018104",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "微",
+        "glyphName": "aj13992",
+        "fontSrc": "noto"
+    },
+    {
+        "character": "媺",
+        "glyphSrc": "mj009882",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "溦",
+        "glyphName": "u6ea6-g",
+        "fontSrc": "noto"
+    },
+    {
+        "character": "癓",
+        "glyphName": "u7653",
+        "fontSrc": "noto"
+    },
+    {
+        "character": "澙",
+        "glyphName": "u6f99",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "眾",
+        "glyphSrc": "衆",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "為",
+        "uvsOrig": "0xe0100",
+        "glyphSrc": "爲",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "即",
+        "glyphSrc": "卽",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "既",
+        "glyphSrc": "旣",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "荒",
+        "glyphName": "aj13772",
+        "uvsOrig": "0xe0102",
+        "glyphSrcList": ["mj021897", "mj021898"],
+        "fontSrcList": ["ipa", "ipa"],
+        "contourList": [[1], [0, 3, 4, 5]]
+    },
+    {
+        "character": "\u4dc0",
+        "glyphName": "u4dc0",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dc1",
+        "glyphName": "u4dc1",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dc2",
+        "glyphName": "u4dc2",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dc3",
+        "glyphName": "u4dc3",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dc4",
+        "glyphName": "u4dc4",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dc5",
+        "glyphName": "u4dc5",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dc6",
+        "glyphName": "u4dc6",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dc7",
+        "glyphName": "u4dc7",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dc8",
+        "glyphName": "u4dc8",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dc9",
+        "glyphName": "u4dc9",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dca",
+        "glyphName": "u4dca",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dcb",
+        "glyphName": "u4dcb",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dcc",
+        "glyphName": "u4dcc",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dcd",
+        "glyphName": "u4dcd",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dce",
+        "glyphName": "u4dce",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dcf",
+        "glyphName": "u4dcf",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dd0",
+        "glyphName": "u4dd0",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dd1",
+        "glyphName": "u4dd1",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dd2",
+        "glyphName": "u4dd2",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dd3",
+        "glyphName": "u4dd3",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dd4",
+        "glyphName": "u4dd4",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dd5",
+        "glyphName": "u4dd5",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dd6",
+        "glyphName": "u4dd6",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dd7",
+        "glyphName": "u4dd7",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dd8",
+        "glyphName": "u4dd8",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dd9",
+        "glyphName": "u4dd9",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dda",
+        "glyphName": "u4dda",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4ddb",
+        "glyphName": "u4ddb",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4ddc",
+        "glyphName": "u4ddc",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4ddd",
+        "glyphName": "u4ddd",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dde",
+        "glyphName": "u4dde",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4ddf",
+        "glyphName": "u4ddf",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4de0",
+        "glyphName": "u4de0",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4de1",
+        "glyphName": "u4de1",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4de2",
+        "glyphName": "u4de2",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4de3",
+        "glyphName": "u4de3",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4de4",
+        "glyphName": "u4de4",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4de5",
+        "glyphName": "u4de5",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4de6",
+        "glyphName": "u4de6",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4de7",
+        "glyphName": "u4de7",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4de8",
+        "glyphName": "u4de8",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4de9",
+        "glyphName": "u4de9",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dea",
+        "glyphName": "u4dea",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4deb",
+        "glyphName": "u4deb",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dec",
+        "glyphName": "u4dec",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4ded",
+        "glyphName": "u4ded",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dee",
+        "glyphName": "u4dee",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4def",
+        "glyphName": "u4def",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4df0",
+        "glyphName": "u4df0",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4df1",
+        "glyphName": "u4df1",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4df2",
+        "glyphName": "u4df2",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4df3",
+        "glyphName": "u4df3",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4df4",
+        "glyphName": "u4df4",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4df5",
+        "glyphName": "u4df5",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4df6",
+        "glyphName": "u4df6",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4df7",
+        "glyphName": "u4df7",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4df8",
+        "glyphName": "u4df8",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4df9",
+        "glyphName": "u4df9",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dfa",
+        "glyphName": "u4dfa",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dfb",
+        "glyphName": "u4dfb",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dfc",
+        "glyphName": "u4dfc",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dfd",
+        "glyphName": "u4dfd",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dfe",
+        "glyphName": "u4dfe",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "\u4dff",
+        "glyphName": "u4dff",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "？",
+        "glyphName": "fs0u003F",
+        "glyphSrc": "?",
+        "fontSrc": "serif"
+    },
+    {
+        "character": "！",
+        "glyphName": "fs0u0021",
+        "glyphSrc": "!",
+        "fontSrc": "serif"
+    },
+    {
+        "character": "：",
+        "glyphName": "bsh0uFF1A",
+        "glyphSrc": "：",
+        "fontSrc": "sc"
+    },
+    {
+        "character": "；",
+        "glyphName": "bsh0uFF1B",
+        "glyphSrc": "；",
+        "fontSrc": "sc"
+    }
+]
