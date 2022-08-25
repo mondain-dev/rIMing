@@ -16,7 +16,7 @@ This font implements the glyph forms known as 舊字形, and follows the exempla
   - 續編 (1931)
   - 正續編合訂本 (1939)
  
-The choices of glyph forms are configured by the `replace.tsv` which is a tab-separated values (TSV) file with comments enabled by the hash sign (#). The first column specifies the glyph in the output font, the second the source font the glyph, and the optional third column the glyph or the code point that should be used. 
+The choices of glyph forms are configured by the `modifications.json`. 
 
 ## Usage
 The script `recombine.py` runs under the [FontForge scripting](https://fontforge.org/docs/scripting/scripting.html) environment. To run the script, the source fonts, namely the paths to IPA mj Mincho, I.Ming, etc. should be specified in the `config.json`, by default expected in the `source/` folder. The following commands will create symbolic links of source fonts in the `source/` folder:
@@ -31,10 +31,10 @@ ln -s /path/to/FreeSerif.ttf source/FreeSerif.ttf
 
 Alternatively, one may modify the `config.json` to provide the locations of the source fonts.
 
-To run the script, use the following command line
+Running the script
 
 ```
-fontforge -script recombine.py
+python recombine.py
 ```
 
-which will generate the result font file `rIMing.ttf` as specified by the `config.json`.
+will generate the result font file `rIMing.ttf` as specified by the `config.json`.
