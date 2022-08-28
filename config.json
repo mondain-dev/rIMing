@@ -16,9 +16,13 @@
         "iming": {
             "filename": "source/I.Ming-7.01.ttf"
         }, 
-        "noto": {
+        "noto-k": {
             "filename": "source/DreamHanSerif-W3.ttc",
             "fontname": "Dream Han Serif K W3"
+        },
+        "noto-hc": {
+            "filename": "source/DreamHanSerif-W3.ttc",
+            "fontname": "Dream Han Serif HC W3"
         },
         "sc": {
             "filename":"source/BabelStoneHan.ttf"
