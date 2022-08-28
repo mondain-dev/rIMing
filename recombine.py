@@ -46,10 +46,10 @@ def getIndices(contourId, endPts):
         return range(endPts[contourId-1]+1, endPts[contourId]+1)
 
 
-def scaleCoordinates(coordinates, factor, descentSrc, descentDst):
-    def transformCoord(coord, s, d_s, d_d):
-        return (coord[0]*s, (coord[1]-d_s)*s+d_d)
-    return [transformCoord(c, factor, descentSrc, descentDst) for c in coordinates]
+def scaleCoordinates(coordinates, factor):
+    def transformCoord(coord, s):
+        return (coord[0]*s, (coord[1])*s)
+    return [transformCoord(c, factor) for c in coordinates]
   
 def main():
     with open(CONFIGFILE) as f:
@@ -127,7 +127,7 @@ def main():
                 s = 1.0
                 if fontBase['head'].unitsPerEm != fontSrc['head'].unitsPerEm:
                     s = fontBase['head'].unitsPerEm/fontSrc['head'].unitsPerEm
-                    glyf.coordinates = GlyphCoordinates(scaleCoordinates(glyfSrc.coordinates, s, fontSrc['hhea'].descent, fontBase['hhea'].descent))
+                    glyf.coordinates = GlyphCoordinates(scaleCoordinates(glyfSrc.coordinates, s))
                 else:
                     glyf.coordinates = glyfSrc.coordinates
                 glyf.flags = glyfSrc.flags
@@ -165,7 +165,7 @@ def main():
                     coord_list += coord
                 else:
                     s = fontBase['head'].unitsPerEm/fontSrcList[i]['head'].unitsPerEm
-                    coord_list += scaleCoordinates(coord, s, fontSrcList[i]['hhea'].descent, fontBase['hhea'].descent)
+                    coord_list += scaleCoordinates(coord, s)
                 flags +=  [g.flags[idx] for idx in indicesList[i]]
                 for c in contourList[i]:
                     if c == 0:
