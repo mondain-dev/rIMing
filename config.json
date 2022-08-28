@@ -2,9 +2,9 @@
     "name": {
         "familyName":"rIMing",
         "subfamilyName": "Regular",
-        "identifier": "rIMing Regular v0.0.1",
+        "identifier": "rIMing Regular (nightly build)",
         "fullName": "rIMing Regular",
-        "version" : "version 0.0.1", 
+        "version" : "nightly build", 
         "psName" : "rIMing",
         "license": "IPA Font License (IPA)",
         "licenseUrl": "https://opensource.org/licenses/IPA/"
