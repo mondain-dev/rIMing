@@ -175,6 +175,11 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "精",
+        "glyphSrc": "mj030215",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "菜",
         "glyphSrc": "mj022111",
         "fontSrc": "ipa"
@@ -197,6 +202,11 @@
     {
         "character": "值",
         "glyphSrc": "値",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "慎",
+        "glyphSrc": "愼",
         "fontSrc": "ipa"
     },
     {
@@ -535,6 +545,11 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "靠",
+        "glyphSrc": "mj027924",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "建",
         "glyphName": "aj13436",
         "fontSrc": "noto-k"
@@ -632,6 +647,11 @@
     {
         "character": "掃",
         "glyphSrc": "mj012455",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "婦",
+        "glyphSrc": "mj009796",
         "fontSrc": "ipa"
     },
     {
@@ -850,6 +870,76 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "漢",
+        "glyphSrc": "mj015842",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "難",
+        "glyphSrc": "mj030304",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "謹",
+        "glyphSrc": "mj030298",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "數",
+        "glyphSrc": "mj013024",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "急",
+        "glyphSrc": "mj011472",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "珊",
+        "glyphSrc": "mj017188",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "違",
+        "glyphSrc": "mj026066",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "圍",
+        "glyphSrc": "mj008869",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "勝",
+        "glyphSrc": "mj007700",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "終",
+        "glyphSrc": "mj020046",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "疼",
+        "glyphSrc": "mj017778",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "周",
+        "glyphSrc": "mj008158",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "派",
+        "glyphSrc": "mj015324",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "望",
+        "glyphSrc": "mj013549",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "麼",
         "glyphSrc": "麽",
         "fontSrc": "ipa"
@@ -867,6 +957,11 @@
     {
         "character": "群",
         "glyphSrc": "羣",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "朵",
+        "glyphSrc": "朶",
         "fontSrc": "ipa"
     },
     {
@@ -929,16 +1024,16 @@
     {
         "character": "遍",
         "glyphName": "gt78515",
-        "glyphSrcList": ["遍", "mj026040"],
+        "glyphSrcList": ["遍", "mj026033"],
         "fontSrcList": ["ipa", "ipa"],
-        "contourList": [[1,2,3,4,5,6,7,9], [5, 8, 9]]
+        "contourList": [[1,2,3,4,5,6,7,9], [1, 4, 5]]
     },
     {
         "character": "徧",
         "glyphName": "shincho03380) ",
-        "glyphSrcList": ["徧", "偏"],
+        "glyphSrcList": ["mj011332", "偏"],
         "fontSrcList": ["ipa", "ipa"],
-        "contourList": [[7,8], [0,1,2,3,4,5,6,8]]
+        "contourList": [[3,5], [0,1,2,3,4,5,6,8]]
     },
     {
         "character": "\u4dc0",
