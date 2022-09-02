@@ -16,6 +16,9 @@
         "iming": {
             "filename": "source/I.Ming-7.01.ttf"
         }, 
+        "imingvar": {
+            "filename": "source/I.MingVar-7.01.ttf"
+        },
         "noto-k": {
             "filename": "source/DreamHanSerif-W3.ttc",
             "fontname": "Dream Han Serif K W3"
