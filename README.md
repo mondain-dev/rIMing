@@ -24,6 +24,7 @@ To run the script, the paths to the source fonts, namely IPA mj Mincho, I.Ming, 
 ```
 ln -s /path/to/ipamjm.ttf source/ipamjm.ttf
 ln -s /path/to/I.Ming-x.xx.ttf source/I.Ming-x.xx.ttf
+ln -s /path/to/I.MingVar-x.xx.ttf source/I.MingVar-x.xx.ttf
 ln -s /path/to/DreamHanSerif-W3.ttc source/DreamHanSerif-W3.ttc
 ln -s /path/to/BabelStoneHan.ttf source/BabelStoneHan.ttf
 ln -s /path/to/FreeSerif.ttf source/FreeSerif.ttf
