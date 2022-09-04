@@ -70,6 +70,11 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "抱",
+        "glyphSrc": "mj012241",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "蘭",
         "glyphSrc": "mj023222",
         "fontSrc": "ipa"
@@ -730,6 +735,11 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "磨",
+        "glyphSrc": "mj018654",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "及",
         "glyphSrc": "mj007989",
         "fontSrc": "ipa"
@@ -1366,6 +1376,11 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "紀",
+        "glyphSrc": "mj019956",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "窮",
         "glyphSrc": "mj019272",
         "fontSrc": "ipa"
@@ -1651,6 +1666,16 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "墨",
+        "glyphSrc": "mj030254",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "賓",
+        "glyphSrc": "mj030299",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "溫",
         "glyphSrc": "温",
         "fontSrc": "ipa"
@@ -1711,6 +1736,11 @@
         "fontSrc": "iming"
     },
     {
+        "character": "場",
+        "glyphSrc": "塲",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "群",
         "glyphSrc": "羣",
         "fontSrc": "ipa"
@@ -1723,6 +1753,11 @@
     {
         "character": "冊",
         "glyphSrc": "册",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "鋭",
+        "glyphSrc": "銳",
         "fontSrc": "ipa"
     },
     {
