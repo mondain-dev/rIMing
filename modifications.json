@@ -80,6 +80,11 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "練",
+        "glyphSrc": "mj030286",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "誤",
         "glyphSrc": "mj024522",
         "fontSrc": "ipa"
@@ -195,6 +200,16 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "採",
+        "glyphSrc": "mj012488",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "妥",
+        "glyphSrc": "mj009598",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "所",
         "glyphSrc": "mj012119",
         "fontSrc": "ipa"
@@ -275,6 +290,11 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "羽",
+        "glyphSrc": "mj030216",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "弱",
         "glyphSrc": "mj011190",
         "fontSrc": "ipa"
@@ -292,6 +312,11 @@
     {
         "character": "扇",
         "glyphSrc": "mj012129",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "翼",
+        "glyphSrc": "mj020742",
         "fontSrc": "ipa"
     },
     {
@@ -422,6 +447,11 @@
     {
         "character": "視",
         "glyphSrc": "mj030296",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "社",
+        "glyphSrc": "mj030274",
         "fontSrc": "ipa"
     },
     {
@@ -710,9 +740,20 @@
         "fontSrc": "noto-k"
     },
     {
+        "character": "健",
+        "glyphName": "aj13435",
+        "fontSrc": "noto-k"
+    },
+    {
         "character": "廷",
         "glyphName": "aj13482",
         "fontSrc": "noto-k"
+    },
+    {
+        "character": "庭",
+        "glyphSrc": "mj011005",
+        "fontSrc": "ipa"
+        
     },
     {
         "character": "延",
@@ -980,6 +1021,11 @@
         "fontSrc": "noto-k"
     },
     {
+        "character": "紋",
+        "glyphName": "aj14060",
+        "fontSrc": "noto-k"
+    },
+    {
         "character": "艾",
         "glyphName": "aj06323",
         "fontSrc": "noto-k"
@@ -1130,6 +1176,21 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "資",
+        "glyphSrc": "mj025046",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "贏",
+        "glyphSrc": "mj025133",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "嬴",
+        "glyphSrc": "mj010020",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "譏",
         "glyphSrc": "mj024764",
         "fontSrc": "ipa"
@@ -1219,7 +1280,11 @@
         "glyphSrc": "mj030248",
         "fontSrc": "ipa"
     },
-
+    {
+        "character": "嘆",
+        "glyphSrc": "mj030251",
+        "fontSrc": "ipa"
+    },
     {
         "character": "數",
         "glyphSrc": "mj013024",
@@ -1561,6 +1626,16 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "肖",
+        "glyphSrc": "mj020927",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "梢",
+        "glyphSrc": "mj013997",
+        "fontSrc": "ipa"       
+    },
+    {
         "character": "消",
         "glyphSrc": "mj015390",
         "fontSrc": "ipa"
@@ -1673,6 +1748,21 @@
     {
         "character": "賓",
         "glyphSrc": "mj030299",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "稷",
+        "glyphName": "u7a37-g",
+        "fontSrc": "noto-sc"
+    },
+    {
+        "character": "朕",
+        "glyphSrc": "mj013539",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "障",
+        "glyphSrc": "mj027670",
         "fontSrc": "ipa"
     },
     {
