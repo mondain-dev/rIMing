@@ -27,6 +27,10 @@
             "filename": "source/DreamHanSerif-W3.ttc",
             "fontname": "Dream Han Serif TC W3"
         },
+        "noto-sc": {
+            "filename": "source/DreamHanSerif-W3.ttc",
+            "fontname": "Dream Han Serif SC W3"
+        },
         "sc": {
             "filename":"source/BabelStoneHan.ttf"
         },
