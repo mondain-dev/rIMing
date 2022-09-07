@@ -545,6 +545,11 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "篇",
+        "glyphSrc": "mj019590",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "都",
         "glyphSrc": "mj030235",
         "fontSrc": "ipa"
@@ -1251,6 +1256,11 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "館",
+        "glyphSrc": "mj030242",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "竟",
         "glyphSrc": "mj019331",
         "fontSrc": "ipa"
@@ -1766,6 +1776,11 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "弊",
+        "glyphSrc": "mj011136",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "溫",
         "glyphSrc": "温",
         "fontSrc": "ipa"
@@ -1813,6 +1828,11 @@
     {
         "character": "恆",
         "glyphSrc": "恒",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "稽",
+        "glyphSrc": "𥡴",
         "fontSrc": "ipa"
     },
     {
