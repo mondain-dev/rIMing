@@ -380,6 +380,11 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "曜",
+        "glyphSrc": "mj013453",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "監",
         "glyphSrc": "mj018104",
         "fontSrc": "ipa"
@@ -850,6 +855,11 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "鵠",
+        "glyphSrc": "mj029547",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "建",
         "glyphName": "aj13436",
         "fontSrc": "noto-k"
@@ -1032,6 +1042,11 @@
     {
         "character": "逮",
         "glyphSrc": "mj025973",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "遼",
+        "glyphSrc": "mj026156",
         "fontSrc": "ipa"
     },
     {
@@ -1252,6 +1267,11 @@
     {
         "character": "屠",
         "glyphSrc": "mj010374",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "署",
+        "glyphSrc": "mj030289",
         "fontSrc": "ipa"
     },
     {
@@ -1705,6 +1725,21 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "芒",
+        "glyphSrc": "mj021527",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "茫",
+        "glyphSrc": "mj021810",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "輞",
+        "glyphSrc": "mj025638",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "冒",
         "glyphSrc": "mj007318",
         "fontSrc": "ipa"
@@ -2106,8 +2141,13 @@
     },
     {
         "character": "潛",
-        "glyphSrc": "mj015908",
+        "glyphSrc": "mj015910",
         "fontSrc": "ipa"
+    },
+    {
+        "character": "僭",
+        "glyphName": "u50ed-g",
+        "fontSrc": "iming"
     },
     {
         "character": "援",
@@ -2137,6 +2177,21 @@
     {
         "character": "姬",
         "glyphSrc": "mj009671",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "懿",
+        "glyphName": "toki01034500",
+        "fontSrc": "noto-sc"
+    },
+    {
+        "character": "龜",
+        "glyphSrc": "mj030156",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "驟",
+        "glyphSrc": "mj028831",
         "fontSrc": "ipa"
     },
     {
