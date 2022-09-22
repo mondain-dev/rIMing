@@ -290,6 +290,11 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "評",
+        "glyphSrc": "mj024429",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "半",
         "glyphSrc": "mj007843",
         "fontSrc": "ipa"
@@ -750,6 +755,17 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "誹",
+        "glyphSrc": "mj024551",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "裴",
+        "glyphSrc": "mj024030",
+        "fontSrc": "ipa"
+        
+    },
+    {
         "character": "前",
         "glyphSrc": "mj007531",
         "fontSrc": "ipa"
@@ -787,6 +803,11 @@
     {
         "character": "耕",
         "glyphSrc": "mj020772",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "耗",
+        "glyphSrc": "mj020776",
         "fontSrc": "ipa"
     },
     {
@@ -1050,6 +1071,11 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "返",
+        "glyphSrc": "mj025806",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "縫",
         "glyphSrc": "mj020345",
         "fontSrc": "ipa"
@@ -1160,9 +1186,9 @@
         "fontSrc": "ipa"
     },
     {
-        "character": "備",
-        "glyphSrc": "mj006998",
-        "fontSrc": "ipa"
+        "character": "揖",
+        "glyphName": "u63d6-g",
+        "fontSrc": "noto-tc"
     },
     {
         "character": "憊",
@@ -1370,16 +1396,6 @@
         "fontSrc": "ipa"
     },
     {
-        "character": "圍",
-        "glyphSrc": "mj008869",
-        "fontSrc": "ipa"
-    },
-    {
-        "character": "諱",
-        "glyphSrc": "mj024628",
-        "fontSrc": "ipa"
-    },
-    {
         "character": "服",
         "glyphSrc": "mj013527",
         "fontSrc": "ipa"
@@ -1407,6 +1423,11 @@
     {
         "character": "嬴",
         "glyphSrc": "mj010020",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "羸",
+        "glyphSrc": "mj020648",
         "fontSrc": "ipa"
     },
     {
@@ -1542,6 +1563,16 @@
     {
         "character": "偉",
         "glyphSrc": "mj006900",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "圍",
+        "glyphSrc": "mj008869",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "緯",
+        "glyphSrc": "mj020271",
         "fontSrc": "ipa"
     },
     {
@@ -1772,6 +1803,11 @@
     {
         "character": "感",
         "glyphName": "u611f-t",
+        "fontSrc": "imingvar"
+    },
+    {
+        "character": "憾",
+        "glyphName": "u61be-t",
         "fontSrc": "imingvar"
     },
     {
@@ -2050,6 +2086,11 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "幣",
+        "glyphSrc": "mj010916",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "毋",
         "glyphName": "u6bcb-g",
         "fontSrc": "imingvar"
@@ -2057,6 +2098,11 @@
     {
         "character": "侵",
         "glyphSrc": "mj006736",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "浸",
+        "glyphSrc": "mj015372",
         "fontSrc": "ipa"
     },
     {
@@ -2092,6 +2138,11 @@
     {
         "character": "距",
         "glyphSrc": "mj025288",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "矩",
+        "glyphSrc": "mj018402",
         "fontSrc": "ipa"
     },
     {
@@ -2195,6 +2246,21 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "塚",
+        "glyphSrc": "mj030194",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "謁",
+        "glyphSrc": "mj030297",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "臾",
+        "glyphSrc": "mj021319",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "溫",
         "glyphSrc": "温",
         "fontSrc": "ipa"
@@ -2237,11 +2303,6 @@
     {
         "character": "偽",
         "glyphSrc": "僞",
-        "fontSrc": "ipa"
-    },
-    {
-        "character": "恆",
-        "glyphSrc": "恒",
         "fontSrc": "ipa"
     },
     {
@@ -2302,6 +2363,11 @@
     {
         "character": "褒",
         "glyphSrc": "襃",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "緒",
+        "glyphSrc": "緖",
         "fontSrc": "ipa"
     },
     {
