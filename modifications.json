@@ -1181,6 +1181,11 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "龔",
+        "glyphSrc": "mj030144",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "親",
         "glyphName": "u89aa-itaiji-001",
         "fontSrc": "iming"
@@ -2351,11 +2356,6 @@
         "fontSrc": "ipa"
     },
     {
-        "character": "姬",
-        "glyphSrc": "mj009671",
-        "fontSrc": "ipa"
-    },
-    {
         "character": "懿",
         "glyphName": "toki01034500",
         "fontSrc": "noto-sc"
@@ -2459,7 +2459,6 @@
         "character": "癸",
         "glyphName": "u7678-g",
         "fontSrc": "imingvar"
-
     },
     {
         "character": "揆",
@@ -2494,7 +2493,12 @@
     {
         "character": "頤",
         "glyphSrc": "mj028196",
-        "fontSrc":"ipa"
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "姬",
+        "glyphSrc": "mj009671",
+        "fontSrc": "ipa"
     },
     {
         "character": "葺",
@@ -2512,9 +2516,9 @@
         "fontSrc":"ipa"
     },
     {
-        "character": "溫",
-        "glyphSrc": "温",
-        "fontSrc": "ipa"
+        "character": "旃",
+        "glyphName": "u65c3-g",
+        "fontSrc":"iming"
     },
     {
         "character": "麼",
