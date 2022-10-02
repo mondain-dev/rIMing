@@ -65,6 +65,11 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "控",
+        "glyphSrc": "mj012496",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "像",
         "glyphSrc": "mj007063",
         "fontSrc": "ipa"
@@ -362,6 +367,11 @@
     {
         "character": "扇",
         "glyphSrc": "mj012129",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "煽",
+        "glyphSrc": "mj016534",
         "fontSrc": "ipa"
     },
     {
@@ -803,7 +813,16 @@
         "character": "裴",
         "glyphSrc": "mj024030",
         "fontSrc": "ipa"
-        
+    },
+    {
+        "character": "徘",
+        "glyphSrc": "mj011316",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "腓",
+        "glyphSrc": "mj021120",
+        "fontSrc": "ipa"
     },
     {
         "character": "前",
@@ -923,6 +942,11 @@
     {
         "character": "鵠",
         "glyphSrc": "mj029547",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "酷",
+        "glyphSrc": "mj026485",
         "fontSrc": "ipa"
     },
     {
@@ -1251,6 +1275,11 @@
         "fontSrc": "noto-tc"
     },
     {
+        "character": "弭",
+        "glyphSrc": "mj011185",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "攝",
         "glyphSrc": "mj012921",
         "fontSrc": "ipa"
@@ -1486,8 +1515,8 @@
         "fontSrc": "ipa"
     },
     {
-        "character": "腓",
-        "glyphSrc": "mj021120",
+        "character": "媵",
+        "glyphSrc": "mj009876",
         "fontSrc": "ipa"
     },
     {
@@ -1743,6 +1772,11 @@
     {
         "character": "蠅",
         "glyphSrc": "mj023767",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "鼈",
+        "glyphSrc": "mj029969",
         "fontSrc": "ipa"
     },
     {
@@ -2521,6 +2555,16 @@
         "fontSrc":"iming"
     },
     {
+        "character": "禘",
+        "glyphSrc": "mj018920",
+        "fontSrc":"ipa"
+    },
+    {
+        "character": "廠",
+        "glyphSrc": "mj011071",
+        "fontSrc":"ipa"
+    },
+    {
         "character": "麼",
         "glyphSrc": "麽",
         "fontSrc": "ipa"
@@ -2688,6 +2732,11 @@
     {
         "character": "粵",
         "glyphSrc": "粤",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "弒",
+        "glyphSrc": "弑",
         "fontSrc": "ipa"
     },
     {
