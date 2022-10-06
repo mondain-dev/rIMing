@@ -27,7 +27,7 @@ def ch2Unicode(ch):
     if len(ch) == 1:
         return ord(ch)
     elif ch.startswith("0x"):
-        return int(glyphDst,base=16)
+        return int(ch, base=16)
     elif ch.startswith("0u") or ch.startswith("0U") or ch.startswith("u+") or ch.startswith("U+"):
         return int(ch[2:], base=16)
     return None
@@ -211,8 +211,13 @@ def main():
 
         # update cmap
         for table in fontBase['cmap'].tables:
-            if table.cmap:
-                table.cmap[unicodeDst] = glyphNameDst
+            if unicodeDst > int('0xFFFF', base=16):
+                if table.format == 12:
+                    if table.cmap:
+                        table.cmap[unicodeDst] = glyphNameDst
+            else:
+                if table.cmap:
+                    table.cmap[unicodeDst] = glyphNameDst
 
     if "name" in config: # rename
         # nameLangList = ['en']
