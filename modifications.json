@@ -90,6 +90,16 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "胞",
+        "glyphSrc": "mj021002",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "泡",
+        "glyphSrc": "mj015226",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "蘭",
         "glyphSrc": "mj023222",
         "fontSrc": "ipa"
@@ -144,6 +154,11 @@
     {
         "character": "愈",
         "glyphSrc": "mj011721",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "癒",
+        "glyphSrc": "mj017937",
         "fontSrc": "ipa"
     },
     {
@@ -587,6 +602,11 @@
     {
         "character": "撞",
         "glyphSrc": "mj012772",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "瞳",
+        "glyphSrc": "mj018341",
         "fontSrc": "ipa"
     },
     {
@@ -2005,6 +2025,11 @@
         "fontSrc": "iming"
     },
     {
+        "character": "瘃",
+        "glyphName": "hkcsm7603)",
+        "fontSrc": "iming"
+    },
+    {
         "character": "督",
         "glyphName": "u7763-g",
         "fontSrc": "noto-tc"
@@ -2768,6 +2793,11 @@
     {
         "character": "闋",
         "glyphName": "aj17180",
+        "fontSrc": "iming"
+    },
+    {
+        "character": "瞪",
+        "glyphName": "aj14882",
         "fontSrc": "iming"
     },
     {
