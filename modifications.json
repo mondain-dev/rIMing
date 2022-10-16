@@ -325,6 +325,11 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "杞",
+        "glyphSrc": "mj013633",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "平",
         "glyphSrc": "mj010942",
         "fontSrc": "ipa"
@@ -567,6 +572,11 @@
     {
         "character": "幟",
         "glyphSrc": "mj010911",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "熾",
+        "glyphSrc": "mj016606",
         "fontSrc": "ipa"
     },
     {
@@ -1970,6 +1980,11 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "澠",
+        "glyphName": "hkcsm6fa0",
+        "fontSrc": "iming"
+    },
+    {
         "character": "鼈",
         "glyphSrc": "mj029969",
         "fontSrc": "ipa"
@@ -2561,6 +2576,11 @@
         "fontSrc": "ipa"
     },
     {
+        "character": "炬",
+        "glyphSrc": "mj016332",
+        "fontSrc": "ipa"
+    },
+    {
         "character": "均",
         "glyphName": "u5747-t",
         "fontSrc": "iming"
@@ -2573,6 +2593,11 @@
     {
         "character": "酌",
         "glyphSrc": "mj026437",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "杓",
+        "glyphSrc": "mj013616",
         "fontSrc": "ipa"
     },
     {
@@ -2733,6 +2758,11 @@
     {
         "character": "扈",
         "glyphSrc": "mj012131",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "滬",
+        "glyphSrc": "mj015774",
         "fontSrc": "ipa"
     },
     {
@@ -2906,6 +2936,36 @@
         "fontSrc":"ipa"
     },
     {
+        "character": "熔",
+        "glyphSrc": "mj016562",
+        "fontSrc":"ipa"
+    },
+    {
+        "character": "燂",
+        "glyphSrc": "mj016616",
+        "fontSrc":"ipa"
+    },
+    {
+        "character": "燮",
+        "glyphSrc": "mj016664",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "爟",
+        "glyphSrc": "mj016717",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "溲",
+        "glyphSrc": "mj015715",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "滏",
+        "glyphName": "aj21894",
+        "fontSrc": "imingvar"
+    },
+    {
         "character": "麼",
         "glyphSrc": "麽",
         "fontSrc": "ipa"
@@ -3023,6 +3083,11 @@
     {
         "character": "緒",
         "glyphSrc": "緖",
+        "fontSrc": "ipa"
+    },
+    {
+        "character": "煴",
+        "glyphSrc": "熅",
         "fontSrc": "ipa"
     },
     {
