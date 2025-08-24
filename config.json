@@ -14,22 +14,10 @@
             "filename": "source/ipamjm.ttf"
         }, 
         "iming": {
-            "filename": "source/I.Ming-7.01.ttf"
+            "filename": "source/I.Ming-8.10.ttf"
         }, 
         "imingvar": {
-            "filename": "source/I.MingVar-7.01.ttf"
-        },
-        "noto-k": {
-            "filename": "source/DreamHanSerif-W3.ttc",
-            "fontname": "Dream Han Serif K W3"
-        },
-        "noto-tc": {
-            "filename": "source/DreamHanSerif-W3.ttc",
-            "fontname": "Dream Han Serif TC W3"
-        },
-        "noto-sc": {
-            "filename": "source/DreamHanSerif-W3.ttc",
-            "fontname": "Dream Han Serif SC W3"
+            "filename": "source/I.MingVar-8.10.ttf"
         },
         "sc": {
             "filename":"source/BabelStoneHan.ttf"

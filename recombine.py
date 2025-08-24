@@ -34,7 +34,12 @@ def ch2Unicode(ch):
 
 def ch2GlyphName(ch, font):
     if len(ch) == 1:
-        return font.getBestCmap()[ord(ch)]
+        try:
+            return font.getBestCmap()[ord(ch)]
+        except:
+            print(ch)
+            print(ord(ch))
+            print(font)
     elif ch.startswith("0u") or ch.startswith("0U") or ch.startswith("u+") or ch.startswith("U+"):
         return font.getBestCmap()[int(ch[2:], base=16)]
     return ch
