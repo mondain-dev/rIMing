@@ -3435,6 +3435,13 @@
         "contourList": [[0,1,2,3,4,5,6,8], [0]]
     },
     {
+        "character": "𮝭",
+        "glyphName": "u2e76d",
+        "glyphSrcList": ["mj027407", "mj025633"],
+        "fontSrcList": ["ipa", "ipa"],
+        "contourList": [[0,1,2,3,4,6], [3,4,5,6,7]]
+    },
+    {
         "character": "𱃥",
         "glyphName": "u310e5",
         "glyphSrcList": ["mj047544", "餸"],
